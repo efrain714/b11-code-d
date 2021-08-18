@@ -1,0 +1,43 @@
+/* Etiqueta HTML */
+
+body{
+    background-color: gainsboro;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+h1{
+    color:red;
+    size: 60 px;
+}
+
+h2{
+    size: 20px;
+    color: blue;
+}
+
+nav>ul>li{
+    background-color: green;
+}
+
+.mi-clase{
+    background-color: yellow;
+}
+
+.parrafo{
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:lightseagreen;
+    font-size: medium;
+}
+
+.lista{
+    text-align: justify;
+    font-size: small;
+    color: maroon;
+    background-color: gray;
+    font-family: cursive;
+    text-transform: uppercase;
+    text-decoration-color: hotpink;
+}
