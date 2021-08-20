@@ -1,0 +1,102 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: beige;
+    padding-top: 100px;
+}
+
+.mainContainer{
+    width: 600px;
+    margin-top:20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: whitesmoke;
+    overflow:hidden;
+    
+}
+
+h2{
+    font-size: 80px;
+    font-family: verdana;
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(20, 40, 94);
+}
+
+.a{
+    float:left;
+    margin-left: 250px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.b{
+    float:left;
+    clear: left;
+    margin-left: 194px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.c{
+    
+    float:left;
+    margin-bottom: 5px;
+
+}
+.d{
+    float:left;
+    clear: left;
+    margin-left: 125px;
+    margin-right: 5px;
+}
+.e{
+    float:left;
+    margin-right: 5px;
+}
+.f{
+    float:left;
+}
+.red{
+    color: red;
+    border: 10px solid red;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+.blue{
+    color: blue;
+    border: 10px solid blue;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+.yellow{
+    color: yellow;
+    border: 10px solid yellow;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;   
+}
+.brown{
+    color: brown;
+    border: 10px solid brown;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+.pink{
+    color: pink;
+    border: 10px solid pink;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;    
+}
+.gray{
+    color: gray;
+    border: 10px solid gray;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
