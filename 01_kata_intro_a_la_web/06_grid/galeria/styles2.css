@@ -1,0 +1,25 @@
+.raiz{
+    background: red;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.item1{
+background: tomato;
+}
+.item2{
+    background: turquoise;
+}
+.item3{
+    background: violet;
+}
+.item4{
+    background: yellow;
+}
+.item5{
+    background: blue;
+}
+.item6{
+    background: brown;
+}

@@ -1,0 +1,11 @@
+.container {
+    border: 10px solid black;
+    display: grid;
+    grid-template-columns: 200px 500px;
+    grid-template-rows: 200px 100px 400px;
+    grid-gap: 20px;
+  }
+  
+  .item {
+    border: 5px solid blue;
+  }

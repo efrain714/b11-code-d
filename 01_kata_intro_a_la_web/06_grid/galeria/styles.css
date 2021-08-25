@@ -1,0 +1,36 @@
+.raiz{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.padre{
+    display: grid;
+
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.hijos{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    border: blue solid;
+}
+
+.nietos{
+    grid-gap: 40px;
+}
+
+
+.madre{
+ 
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
